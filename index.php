@@ -5,7 +5,7 @@
 	<link href="bootstrap.min.css" rel="stylesheet">
 </head>
 <body>
-	<h1>Upload Files to your php app</h1>
+	<h1>Heroku Test Uploa Files PHP</h1>
 	<form action="upload.php" method="POST" enctype="multipart/form-data">
 		<input type="file" name="file">
 		<button type="submit" class="btn-primary"name="submit">UPLOAD</button>
